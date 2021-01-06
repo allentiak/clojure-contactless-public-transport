@@ -12,7 +12,7 @@ A contactless card allows users to pay for a train or any other public transport
  
 Every transaction has to be record on the contactless card. 
 
-### Use cases
+### Functional Examples
 
 - [ ]  The balance is 100 and the user has to pay 10. The payment is accomplished, the card has a new record and the balance is 90.
 - [ ]  The balance is 200 and the user has to pay 110. The payment is accomplished, the card has a new record and the balance is -10.
